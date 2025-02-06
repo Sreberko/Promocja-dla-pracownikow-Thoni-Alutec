@@ -1,4 +1,4 @@
-# Promocja dla pracowników Thoni Alutec
+#dla pracowników Thoni Alutec
 
 <html lang="pl">
 <head>
@@ -140,7 +140,7 @@
     <img src="https://github.com/user-attachments/assets/d923b0f0-10fd-4a62-adfa-ea728b4b59da" alt="zdjęcie oferty">
    <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">66 zł</s> ➝ 
-    <span style="color: #008000;">59 zł</span>
+    <span style="color: #008000;">56 zł</span>
         </p>
 
 
@@ -193,7 +193,7 @@
     
 </p>
 </details>
-<img src="https://github.com/user-attachments/assets/73255cae-edd9-47a1-b150-8b33474e3b0b" alt="zdjęcie oferty">
+<img src="https://github.com/user-attachments/assets/5b6e9d15-819d-426d-ae9e-7b57a82f44d7" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">69 zł</s> ➝ 
     <span style="color: #008000;">59 zł</span>
